@@ -2,6 +2,8 @@
 Description
 GitHub Fetch Repos App is a web application built using HTML, CSS, and JavaScript. It utilizes the Fetch API to retrieve GitHub repositories of a specified user. Users can enter a GitHub username and view all repositories, including the number of stars each repository has, and visit the repository page.
 
+# Demo: https://se-zeyad.github.io/Git-Hup-Fetch-Repos-App/
+
 # Features
 User Input: Enter a GitHub username.
 Repository List: Display a list of repositories for the entered username.
